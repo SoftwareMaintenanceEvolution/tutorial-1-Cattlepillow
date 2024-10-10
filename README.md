@@ -1,9 +1,10 @@
 # Introduction 
-Hi! I'm CHOONG YI YANG, a student in the Software Maintenance and Evolution course.  
-I expect to learn a lot about modern software maintenance practices and how to work with legacy systems. 
-**Fun fact**: I love playing the guitar in my free time. 
-**Course expectations**: To gain hands-on experience in 
-maintaining and evolving software. 
+Hi! I'm Choong Yi Yang, a final-year Computer Science (Software Engineering) student at Universiti Malaya.  
+I'm excited to dive deeper into **Software Maintenance and Evolution** and learn effective strategies for maintaining and improving software systems.  
+
+**Fun fact**: I'm passionate about swimming and video games!  
+**Course expectations**: To enhance my skills in maintaining, debugging, and evolving software, with practical experience working on real-world systems.
+
 ![My Image](Profile.png)  <!-- Link to the uploaded image --> 
 ## GitHub Profile 
 You can view my personalized GitHub profile 
